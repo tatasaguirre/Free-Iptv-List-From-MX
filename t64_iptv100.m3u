@@ -6,6 +6,33 @@
 #EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml
 
 
+
+
+#EXTINF:-1 tvg-id="IERTBCSCanal82.mx@SD" tvg-logo="https://imgur.com/kEAVbWx.png" ,Canal 8.1 IERTBCS| La Paz MX
+#EXTVLCOPT:network-caching=1000
+https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IERTBCSCanal82.mx@SD"tvg-logo="https://imgur.com/Y2H8KUY.png" ,Canal 8.2 IERTBCS| La Paz MX
+#EXTVLCOPT:network-caching=1000
+https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="JaliscoTV.mx@SD" tvg-logo="https://imgur.com/V3kneQGOg17U9N.png" ,Canal 17.1 JaliscoTV | Guadalajara MX
+#EXTVLCOPT:network-caching=1000
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",Canal 40.1 ADN| MX
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD",Imagen TV (1080p)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+
+#EXTINF:-1 tvg-id="ITVDeportes.mx@SD",ITV Deportes (720p)
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
 #EXTINF:-1 tvg-id="wb.us" tvg-logo="https://imgur.com/zTZWAWl.png" group-title="CABLE USA",WATCHINGLIST BY WB | USA
 #EXTVLCOPT:network-caching=1000
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
