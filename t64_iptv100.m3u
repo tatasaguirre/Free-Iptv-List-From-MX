@@ -7,6 +7,18 @@
 
 
 
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="",TV Cuatro 4.1
+#EXTVLCOPT:network-caching=1000
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+
+#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="",TV Cuatro 4.2
+#EXTVLCOPT:network-caching=1000
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
+#EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="",TV Cuatro 4.3
+#EXTVLCOPT:network-caching=1000
+https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
+
 
 #EXTINF:-1 tvg-id="IERTBCSCanal82.mx@SD" tvg-logo="https://imgur.com/kEAVbWx.png" ,Canal 8.1 IERTBCS| La Paz MX
 #EXTVLCOPT:network-caching=1000
@@ -21,10 +33,14 @@ https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 
-
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",Canal 40.1 ADN| MX
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://i.imgur.com/dMe3re4.png" group-title="News",Azteca Internacional (1080p)
+#EXTVLCOPT:network-caching=1000
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ImagenTV.mx@SD",Imagen TV (1080p)
@@ -32,6 +48,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
 #EXTINF:-1 tvg-id="ITVDeportes.mx@SD",ITV Deportes (720p)
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
 
 #EXTINF:-1 tvg-id="wb.us" tvg-logo="https://imgur.com/zTZWAWl.png" group-title="CABLE USA",WATCHINGLIST BY WB | USA
 #EXTVLCOPT:network-caching=1000
@@ -46,8 +63,7 @@ http://209.14.115.253:8081/DE-PELICULA/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 #EXTINF:-1 tvg-id="AlcanceTV.mx" tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="Religious",Alcance TV
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias
@@ -266,12 +282,7 @@ http://190.61.102.67:2000/play/a08j/index.m3u8
 https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
 #EXTINF:-1 tvg-id="TVBUAP.mx" tvg-logo="https://i.imgur.com/hHrIn0r.png" group-title="General",TV BUAP
 https://tvenvivo.buap.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="",TV Cuatro 4.1
-https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="",TV Cuatro 4.2
-https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://i.imgur.com/Of044Jx.png" group-title="",TV Cuatro 4.3
-https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
+
 #EXTINF:-1 tvg-id="TVGuanajuato.mx" tvg-logo="https://i.imgur.com/HbnCZSF.png" group-title="General",TV Guanajuato
 https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIndependencia.mx" tvg-logo="https://i.imgur.com/kuyQvUP.png" group-title="General",TV Independencia
@@ -380,8 +391,7 @@ https://livetv-fa.tubi.video/bounce-xl/playlist.m3u8
 https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master_2.m3u8
 
 
-#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://i.imgur.com/dMe3re4.png" group-title="General",Azteca Internacional (1080p)
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="General;Noticias",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="APlus.mx" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="General",A+
