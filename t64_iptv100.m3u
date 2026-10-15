@@ -117,6 +117,26 @@ https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="ConectaTV.mx",10.4 Conecta TV Chihuahua
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+
+
+#EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://imgur.com/uaRskIf.png" group-title="LocalTV MX",10.1 TVP | Culiacan MX
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Cancun.mx",10.1 Canal 10 | Cancún MX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-logo=https://imgur.com/FgTNDKU.png" group-title="News",10.1 Noticias Canal 10
+#EXTVLCOPT:network-caching=1000
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Cancun.mx",10.2 Canal 10 Cancún (360p)
+#EXTVLCOPT:network-caching=1000
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="JaliscoTV.mx@SD" tvg-logo="https://imgur.com/V3kneQGOg17U9N.png" ,Canal 17.1 JaliscoTV | Guadalajara MX
 #EXTVLCOPT:network-caching=1000
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
@@ -126,13 +146,31 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 https://iptv-org.github.io/iptv/subdivisions/mx-agu.m3u
 
 
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",Canal 40.1 ADN| MX
-#EXTVLCOPT:network-caching=1000
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal33Tijuana.mx" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="General;Noticias",Canal 33.1 | Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/OwdNKgQ.png" tvg-id="Canal33Tijuana.mx" group-title="LocalTV MX",33.2 Canal 33 | Tijuana MX
+#EXTVLCOPT:network-caching=1000
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3HVnhUn.png" tvg-id="MexiquenseTV.mx" group-title="LocalTV MX",,34.1 Mexiquense TV | CDMX
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="LocalTV MX;Noticias",34.2 AMX Noticias
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AMXNoticias.mx", 34.2 AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",Canal 40.1 ADN| MX
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="XHIJTDT.mx@SD" tvg-logo="https://i.imgur.com/oRudPXX.png" group-title="General",Canal 44.1 | Ciudad Juárez MX
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
@@ -1336,24 +1374,7 @@ https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ConectaTV.mx",10.4 Conecta TV Chihuahua
-https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
-
-#EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://imgur.com/uaRskIf.png" group-title="LocalTV MX",10.1 TVP | Culiacan MX
-#EXTVLCOPT:network-caching=1000
-https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal10Cancun.mx",10.1 Canal 10 | Cancún MX
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-logo=https://imgur.com/FgTNDKU.png" group-title="News",10.1 Noticias Canal 10
-#EXTVLCOPT:network-caching=1000
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal10Cancun.mx",10.2 Canal 10 Cancún (360p)
-#EXTVLCOPT:network-caching=1000
-https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/J5yhVLX.png" tvg-id="RTQQueretaro.mx" group-title="LocalTV MX",10.1 RTQ | Queretaro MX
 #EXTVLCOPT:network-caching=1000
@@ -1574,22 +1595,7 @@ https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OwdNKgQ.png" tvg-id="Canal33Tijuana.mx" group-title="LocalTV MX",33.2 Canal 33 | Tijuana MX
-#EXTVLCOPT:network-caching=1000
-https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/3HVnhUn.png" tvg-id="MexiquenseTV.mx" group-title="LocalTV MX",,34.1 Mexiquense TV | CDMX
-#EXTVLCOPT:network-caching=1000
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="LocalTV MX;Noticias",34.2 AMX Noticias
-#EXTVLCOPT:network-caching=1000
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="AMXNoticias.mx", 34.2 AMX Noticias
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=".png" tvg-id="ADN40.mx" group-title="LocalTV MX",ADN 40.1 HD | CDMX
 #EXTVLCOPT:network-caching=1000 
